@@ -1,2 +1,2 @@
-# titanic_project
- 
+![Cover Image](titanic_cover.png)
+# TITANIC PROJECT
